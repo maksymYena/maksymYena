@@ -32,7 +32,7 @@ I am a **Senior Software Test Automation Engineer** specializing in **Java** and
 🔹 **[API Testing Tool](https://github.com/maksymYena/API-Testing-Tool)** - Custom API testing framework  
 
 ### 🐍 GitHub Contribution Snake
-![Snake animation](https://github.com/maksymYena/maksymYena/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/maksymYena/maksymYena/main/dist/github-contribution-grid-snake.svg)
 
 ## 📜 Research Profiles
 
