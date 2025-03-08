@@ -1,4 +1,6 @@
-### Hi there, I'm Maksym Yena! 👋
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff)
+
+# 👋 Hi there, I'm Maksym Yena!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7931A&width=900&lines=Senior+Software+Test+Automation+Engineer;Java+%7C+Python+%7C+Machine+Learning+%7C+AI;UAV+Traffic+Management+%7C+Swarm+Intelligence)](https://maksymyena.github.io/)
 
@@ -17,38 +19,42 @@ I am a **Senior Software Test Automation Engineer** specializing in **Java** and
 
 🔗 **More information about me:** [**Portfolio & Resume**](https://maksymyena.github.io/)  
 
----
+![Quote](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=F7931A&size=20&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Life+is+short,+automate+everything.;Make+your+code+work+for+you.)
 
-## 🌟 My Projects  
-🚀 Check out some of my most exciting projects:
+![Capsule Render](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
+
+## 🌟 Featured Projects  
+### 🚀 Cool Stuff I'm Working On:
 
 🔹 **[UAV Traffic Optimization](https://github.com/maksymYena/UAV-Traffic-Optimization)** - Smart algorithms for UAV traffic control  
-🔹 **[UAV Traffic Simulation](https://github.com/maksymYena/UAV-Traffic-Simulation)** - Simulation of UAV routes using AI models  
 🔹 **[Spiking Neuron Models](https://github.com/maksymYena/Spiking-Neuron-Models)** - AI-driven neuron simulation  
-🔹 **[Java WireMock Examples](https://github.com/maksymYena/Java-WireMock-Examples)** - API mocking with WireMock  
-🔹 **[Python Automation](https://github.com/maksymYena/Python-Automation)** - Advanced Python automation scripts  
-🔹 **[PhD Dissertation](https://github.com/maksymYena/PhD-Dissertation)** - My research in UAV Traffic Optimization  
 🔹 **[Blockchain Smart Contracts](https://github.com/maksymYena/Blockchain-Smart-Contract)** - Exploring blockchain technology  
+🔹 **[API Testing Tool](https://github.com/maksymYena/API-Testing-Tool)** - Custom API testing framework  
 
----
+### 🐍 GitHub Contribution Snake
+![Snake animation](https://github.com/maksymYena/maksymYena/blob/output/github-contribution-grid-snake.svg)
+
+![Capsule Render](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
 
 ## 📜 Research Profiles
 
 🔗 **[ORCID](https://orcid.org/my-orcid?orcid=0009-0006-0664-3244)** - Explore my research contributions  
 🔗 **[Google Scholar](https://scholar.google.com.ua/citations?hl=ru&user=JVUkXN4AAAAJ)** - View my publications and citations  
 
----
+![Capsule Render](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,github,git,gradle,docker,selenium,vscode,kubernetes,linux" />
+</p>
 
----
+### 📊 More Than Just Code:
+- 🚀 **Automation Enthusiast** - I automate everything possible.
+- 🎯 **Always Learning** - Exploring AI & ML applications.
+- 🔥 **Code Performance Optimizer** - Writing efficient test frameworks.
+
+![Capsule Render](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
 
 ## 📬 Contact
 
@@ -56,10 +62,18 @@ I am a **Senior Software Test Automation Engineer** specializing in **Java** and
 ✆ **Telegram:** [@Max1Black](https://t.me/Max1Black)  
 📎 **LinkedIn:** [Maksym Yena](https://www.linkedin.com/in/maksym-yena/)  
 
----
+![Capsule Render](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksymYena&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maksymYena&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maksymYena&show_icons=true&theme=radical" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymYena&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maksymYena&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymYena&layout=compact&theme=radical" />
+</p>
