@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */6 * * *"  
-  workflow_dispatch: 
+  workflow_dispatch:       
 
 jobs:
   build:
@@ -17,16 +17,21 @@ jobs:
         with:
           github_user_name: maksymYena
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg
+            github-snake-dark.svg?palette=github-dark
 
-      - name: Push generated snake
+      - name: Create output directory
+        run: mkdir -p output
+
+      - name: Move generated files
         run: |
-          mkdir -p output
-          mv dist/github-contribution-grid-snake.svg output/
-          mv dist/github-snake-dark.svg output/
+          mv github-contribution-grid-snake.svg output/
+          mv github-snake-dark.svg output/
+
+      - name: Push updated snake animation
+        run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add output/
-          git commit -m "Updated snake animation"
+          git commit -m "Updated snake animation" || echo "No changes to commit"
           git push
