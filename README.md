@@ -34,8 +34,6 @@ I am a **Senior Software Test Automation Engineer** specializing in **Java** and
 ### 🐍 GitHub Contribution Snake
 ![Snake animation](https://github.com/maksymYena/maksymYena/blob/output/github-contribution-grid-snake.svg)
 
-![Capsule Render](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5)
-
 ## 📜 Research Profiles
 
 🔗 **[ORCID](https://orcid.org/my-orcid?orcid=0009-0006-0664-3244)** - Explore my research contributions  
@@ -46,7 +44,7 @@ I am a **Senior Software Test Automation Engineer** specializing in **Java** and
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,github,git,gradle,docker,selenium,vscode,kubernetes,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,github,git,gradle,maven,docker,selenium,kubernetes,postman,flask,spring" />
 </p>
 
 ### 📊 More Than Just Code:
