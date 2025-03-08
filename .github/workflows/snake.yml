@@ -2,12 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Запуск каждые 6 часов
-  workflow_dispatch:       # Позволяет запускать вручную
+    - cron: "0 */6 * * *"  
+  workflow_dispatch:       
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -22,8 +24,8 @@ jobs:
 
       - name: Commit and Push Snake
         run: |
-          git config --global user.name "github-actions"
+          git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions@github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Updated snake animation" || echo "No changes to commit"
-          git push
+          git add dist/github-contribution-grid-snake.svg || echo "No changes to commit"
+          git commit -m "Updated snake animation" || exit 0
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/maksymYena/maksymYena.git HEAD:main
