@@ -26,10 +26,9 @@ I am a **Senior Software Test Automation Engineer** specializing in **Java** and
 ## 🌟 Featured Projects  
 ### 🚀 Cool Stuff I'm Working On:
 
-🔹 **[UAV Traffic Optimization](https://github.com/maksymYena/UAV-Traffic-Optimization)** - Smart algorithms for UAV traffic control  
-🔹 **[Spiking Neuron Models](https://github.com/maksymYena/Spiking-Neuron-Models)** - AI-driven neuron simulation  
-🔹 **[Blockchain Smart Contracts](https://github.com/maksymYena/Blockchain-Smart-Contract)** - Exploring blockchain technology  
-🔹 **[API Testing Tool](https://github.com/maksymYena/API-Testing-Tool)** - Custom API testing framework  
+🔹 **[Spiking Neuron Models](https://github.com/maksymYena/Spiking_neuron_models)** - AI-driven neuron simulation  
+🔹 **[Blockchain Smart Contracts](https://github.com/maksymYena/blockchain-smart_contract_pet_shop)** - Exploring blockchain technology  
+🔹 **[LeetCode problems](https://github.com/maksymYena/leet_code)** - My solution for leet_code problems  
 
 ### 🐍 GitHub Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/maksymYena/maksymYena/main/dist/github-contribution-grid-snake.svg)
