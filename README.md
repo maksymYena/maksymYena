@@ -29,7 +29,7 @@ I am a **Senior Software Test Automation Engineer** specializing in **Java** and
 🔹 **[Spiking Neuron Models](https://github.com/maksymYena/Spiking_neuron_models)** — AI-driven neuron simulation  
 🔹 **[Blockchain Smart Contracts](https://github.com/maksymYena/blockchain-smart_contract_pet_shop)** — Exploring blockchain technology  
 🔹 **[Modeling Collective Behavior of UAV Flotillas Using Mean Field Games](https://github.com/maksymYena/mfg-uav-flotilla-simulation-article_8)** — Analyzing the collective behavior of UAVs using Mean Field Game (MFG) theory versus a rule-based baseline model  
-🔹 **[Tax Calculator](https://github.com/maksymYena/tax_calculator)** — Tax calculator for Ukraine  
+🔹 **[Tax Calculator](https://github.com/maksymYena/tax_calculcator)** — Tax calculator for Ukraine  
 
 ### 🐍 GitHub Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/maksymYena/maksymYena/main/dist/github-contribution-grid-snake.svg)
